@@ -1,1 +1,1 @@
-{"version":"1.0", "type":"Pre-Release", "note":"Wichtige Fehler Behebungen"}
+{"version":"0.7.0", "type":"Pre-Release", "note":"Wichtige Fehler Behebungen"}
