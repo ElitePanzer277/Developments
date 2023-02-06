@@ -1,1 +1,1 @@
-{"version":"0.7.1", "type":"Pre-Release", "note":"Wichtige Fehler Behebungen für ChHyperSounds Nutzer."}
+{"version":"0.7.1", "type":"Pre-Release", "note":"Big Update Changelog: \n https://bundes-roleplay-development.gitbook.io/bundesrp_development/ "}
