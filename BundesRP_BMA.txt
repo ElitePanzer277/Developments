@@ -1,1 +1,1 @@
-{"version":"0.7.1", "type":"Pre-Release", "note":"Big Update Changelog: \n https://bundes-roleplay-development.gitbook.io/bundesrp_development/ "}
+{"version":"0.8.0", "type":"Pre-Release", "note":"Big Update Changelog: \n https://bundes-roleplay-development.gitbook.io/bundesrp_development/ "}
