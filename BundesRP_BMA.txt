@@ -1,1 +1,1 @@
-{"version":"0.8.2", "type":"Pre-Release", "note":"Changelog: \n ^5docs.bundesrp.de^0 "}
+{"version":"0.9.0", "type":"Pre-Pre-Release", "note":"dies ist eine Vor Vor Ab Version für die Nutzer die mit ChHyperSound Probleme haben. "}
