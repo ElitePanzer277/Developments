@@ -1,1 +1,2 @@
-{"version":"0.9.0", "type":"Pre-Pre-Release", "note":"dies ist eine Vor Vor Ab Version für die Nutzer die mit ChHyperSound Probleme haben. "}
+{"version":"0.9.0", "type":"Pre-Pre-Release", "note":"Die Beta 0.9.0V4 Steht nun Public Bereit aufgrund das Sehr Viele Probleme mit ChHyperSounds Haben. Bedenkt bitte das es sich dabei um Eine Beta Version noch handelt oder auch genannt Eine Vor Vor ab Release Version.
+In dieser Version wird BRP_3DSounds Benötigt welches Ebenfalls noch in Beta ist."}
