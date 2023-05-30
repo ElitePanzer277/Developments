@@ -1,1 +1,1 @@
-{"version":"0.9.0", "type":"Beta", "note":"Die Beta 0.9.0 Steht nun Bereit für Partner!."}
+{"version":"0.9.9", "type":"Beta", "note":""Die Beta 0.9.0 Steht nun Bereit für Partner! Docs: docs.bundesrp.de"}
