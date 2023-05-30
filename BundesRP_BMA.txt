@@ -1,1 +1,1 @@
-{"version":"0.9.9", "type":"Beta", "note":""Die Beta 0.9.0 Steht nun Bereit für Partner! Docs: docs.bundesrp.de"}
+{"version":"1.1", "type":"Release", "note":"Einige Änderungen und Verbesserungen sowie Neue Notifications Docs: docs.bundesrp.de"}
